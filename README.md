@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning POWER BI
 - 💞️ I’m looking to collaborate on new org
-- 📫 How to reach me viswanathitp@gmail.com
+- 📫 How to reach me viswanathvl@zohomail.in
 
 <!---
 viswanathvl/viswanathvl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
